@@ -2,8 +2,6 @@ rEFInd 2077.
 ==============================
 A cyberpunk theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [dm](https://github.com/mustaqimM/dm).
 ----
-**Screenshot**
-![M](https://github.com/Caton101/refind2077/blob/master/screenshot.png)
 
 Installation
 ----
