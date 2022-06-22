@@ -1,9 +1,9 @@
-dm.
+rEFInd 2077.
 ==============================
-A dark theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [Dream Machine](https://github.com/Lindstream/dm-refind-theme).
+A cyberpunk theme for [rEFInd](http://www.rodsbooks.com/refind/) based on [dm](https://github.com/mustaqimM/dm).
 ----
 **Screenshot**
-![M](https://github.com/mustaqimM/dm/blob/master/screenshot.png)
+![M](https://github.com/Caton101/refind2077/blob/master/screenshot.png)
 
 Installation
 ----
@@ -18,9 +18,11 @@ Obviously [rEFInd](http://www.rodsbooks.com/refind/) is needed to use this. Inst
 
 If the `refind` bootloader doesn't show up on boot even after running `refind-install`. Run `efibootmgr` (to see the current boot order), then set the order so it is loaded first, for example: `efibootmgr -o 0002,0003,0001`. You may first need to clear the boot order: `efibootmgr -O` OR delete a specific entry: `efibootmgr -A 0002`
 
-----  
+----
 Attributions
 ----
+
+**Original Theme:** [dm](https://github.com/mustaqimM/dm)
 
 **Font:** [Dento font](http://fontmeme.com/freefonts/34867/dento.font)
 
